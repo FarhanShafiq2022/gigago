@@ -1,0 +1,28 @@
+/* Navbar.css */
+.navbar {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .navbar-brand:hover {
+    color: #4a4a4a;
+  }
+  
+  .navbar-link {
+    transition: color 0.3s;
+  }
+  
+  .navbar-link:hover {
+    color: #4a4a4a;
+  }
+  
+  .navbar-link.active {
+    color: #4a4a4a;
+  }
+
